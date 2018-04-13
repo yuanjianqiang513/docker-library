@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/tiller:2.8.2
+FROM gcr.io/kubernetes-helm/tiller:2.8.2
